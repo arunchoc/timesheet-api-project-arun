@@ -1,2 +1,2 @@
 # timesheet-ui
-Personal timesheet project
+Personal timesheet project for office purpose
