@@ -1,0 +1,24 @@
+17/3/25
+1. Attendance validations and ui error messages
+
+In UI vaidation message must be displayed
+
+18/3/25
+1. Updated the date issue for sql .Use Select getdate() at time zone 'UTC' at time zone 'India Standard Time' as localtime
+
+19/3/25
+1. Need to format api error output and match it with ui for 400
+Need to check my validation not working for from body 
+api validations over. check UI
+
+20/3/25
+
+1. check how to parse if null in request body
+
+24/3/25
+1.Remember to add validation to Add attendance. Is it possible to combine add attendance and update balance
+2. trying to setup scanner first
+3. Scanner ui finished. focus on api validations and combining logic
+
+27/3/25
+1. Need to combine apis

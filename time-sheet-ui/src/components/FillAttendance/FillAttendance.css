@@ -1,0 +1,65 @@
+.fill-attendance-container {
+  background-color: #e6f2ff; 
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+    text-align: center; 
+
+.fill-attendance-container h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.attendance-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center inputs */
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  width: 100%; /* Make form fields stretch */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.form-group input,
+.form-group select {
+  padding: 10px;
+  font-size: 16px;
+  width: 100%; /* Make inputs stretch */
+  max-width: 300px; /* Prevent fields from becoming too wide */
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.form-group button {
+  padding: 12px 20px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  max-width: 300px;
+}
+
+.form-group button:hover {
+  background-color: #45a049;
+}
+}

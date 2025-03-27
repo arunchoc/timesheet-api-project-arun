@@ -1,0 +1,85 @@
+.status0 {
+  background-color: #ed3b3b;
+}
+.status1 {
+  background-color: #06c706;
+}
+.status2 {
+  background-color: #ed9e06;
+}
+.status3 {
+  background-color: #179ded;
+}
+.status4 {
+  background-color: darkgray;
+}
+.status5 {
+  background-color: grey;
+}
+.color {
+  color: rgb(59, 25, 25);
+  text-align: center;
+}
+.margin-top-5 {
+  margin-top: 5px;
+}
+.margin-top-10 {
+  margin-top: 10px;
+}
+.margin-left {
+  margin-left: 5px;
+}
+.padding {
+  padding: 6px;
+}
+.bgcolor-lightblue {
+  background-color: #9cc3d5;
+}
+tr {
+  height: 50px;
+}
+td {
+  width: 75px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #9cc3d5;
+  box-shadow: 2px 2px 2px black, -2px -2px 2px black;
+  text-shadow: 1px 1px 10px white;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  border-style: solid;
+  border-color: #9cc3d5;
+  border-width: 2px;
+  box-shadow: 2px 2px 2px black, -2px -2px 2px black;
+  text-shadow: 1px 1px 1px black;
+}
+.status0-leg {
+  background-color: #ed3b3b;
+  color: #ed3b3b;
+}
+.status1-leg {
+  background-color: #06c706;
+  color: #06c706;
+}
+.status2-leg {
+  background-color: #ed9e06;
+  color: #ed9e06;
+}
+.status3-leg {
+  background-color: #179ded;
+  color: #179ded;
+}
+.status4-leg {
+  background-color: darkgray;
+  color: darkgray;
+}
+.status5-leg {
+  background-color: grey;
+  color: grey;
+}
+.leg {
+  margin: 2px;
+}
